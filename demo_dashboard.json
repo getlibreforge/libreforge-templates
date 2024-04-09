@@ -1052,7 +1052,7 @@
         "children": "Login",
         "variant": "solid",
         "size": "md",
-        "_x_url": "https://api.extracontrib.com:9999/api/auth/login",
+        "_x_url": "https://api.libreforge.com:9999/api/auth/login",
         "_x_method": "POST",
         "colorScheme": "blue",
         "_x_onclick_1": "SubmitForm",

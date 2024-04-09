@@ -180,7 +180,7 @@
         "_x_onclick_2": "ExtractResponseData",
         "_x_onclick_3": "RouteToNextWizardStep",
         "_x_method": "POST",
-        "_x_url": "https://api.extracontrib.com:9999/api/quote-auto/driver",
+        "_x_url": "https://api.libreforge.com:9999/api/quote-auto/driver",
         "_x_onclick_2_attr": "policyNumber",
         "_x_onclick_3_url": "/quote-auto-vehicle"
       },
@@ -447,7 +447,7 @@
         "_x_name": "2eaecce5-e461-41d8-9db9-913d010c6ba4",
         "w": "28px",
         "color": "messenger.900",
-        "url": "https://api.extracontrib.com:9999/api/common/dictionaries",
+        "url": "https://api.libreforge.com:9999/api/common/dictionaries",
         "variable": "dictionaries"
       },
       "children": [],
@@ -809,7 +809,7 @@
         "colorScheme": "blue",
         "_x_onclick_1": "SubmitForm",
         "w": "50%",
-        "_x_url": "https://api.extracontrib.com:9999/api/quote-auto/vehicle",
+        "_x_url": "https://api.libreforge.com:9999/api/quote-auto/vehicle",
         "_x_method": "POST",
         "_x_onclick_2": "RouteToNextWizardStep",
         "_x_onclick_2_url": "/quote-auto-purpose"
@@ -977,7 +977,7 @@
         "w": "28px",
         "color": "messenger.900",
         "variable": "dictionaries",
-        "url": "https://api.extracontrib.com:9999/api/common/dictionaries"
+        "url": "https://api.libreforge.com:9999/api/common/dictionaries"
       },
       "children": [],
       "type": "ResourceLoad",
@@ -1363,7 +1363,7 @@
         "colorScheme": "blue",
         "_x_onclick_1": "SubmitForm",
         "w": "50%",
-        "_x_url": "https://api.extracontrib.com:9999/api/quote-auto/purpose",
+        "_x_url": "https://api.libreforge.com:9999/api/quote-auto/purpose",
         "_x_method": "POST",
         "_x_onclick_2": "RouteToNextWizardStep",
         "_x_onclick_2_url": "/quote-auto-complete"
@@ -1461,7 +1461,7 @@
         "w": "28px",
         "color": "messenger.900",
         "variable": "dictionaries",
-        "url": "https://api.extracontrib.com:9999/api/common/dictionaries"
+        "url": "https://api.libreforge.com:9999/api/common/dictionaries"
       },
       "children": [],
       "type": "ResourceLoad",
