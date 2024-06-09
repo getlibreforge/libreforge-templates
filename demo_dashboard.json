@@ -7,7 +7,8 @@
       "children": [
         "81d52c95-6870-412f-8188-1a328fac5bbd"
       ],
-      "props": {}
+      "props": {},
+      "rules": {}
     },
     "81d52c95-6870-412f-8188-1a328fac5bbd": {
       "id": "81d52c95-6870-412f-8188-1a328fac5bbd",
@@ -26,7 +27,8 @@
       ],
       "type": "Form",
       "parent": "root",
-      "rootParentType": "Form"
+      "rootParentType": "Form",
+      "rules": {}
     },
     "cb0ce3a1-c389-4d43-8460-de469eb31df5": {
       "id": "cb0ce3a1-c389-4d43-8460-de469eb31df5",
@@ -48,7 +50,8 @@
       ],
       "type": "Stack",
       "parent": "81d52c95-6870-412f-8188-1a328fac5bbd",
-      "rootParentType": "Stack"
+      "rootParentType": "Stack",
+      "rules": {}
     },
     "2032f29c-094c-4d0d-bc7a-81e6d4751640": {
       "id": "2032f29c-094c-4d0d-bc7a-81e6d4751640",
@@ -70,7 +73,8 @@
       ],
       "type": "Stack",
       "parent": "cb0ce3a1-c389-4d43-8460-de469eb31df5",
-      "rootParentType": "Stack"
+      "rootParentType": "Stack",
+      "rules": {}
     },
     "806840a3-124e-4367-ad45-30e3dccc5bf7": {
       "id": "806840a3-124e-4367-ad45-30e3dccc5bf7",
@@ -93,7 +97,8 @@
       ],
       "type": "Stack",
       "parent": "2032f29c-094c-4d0d-bc7a-81e6d4751640",
-      "rootParentType": "Stack"
+      "rootParentType": "Stack",
+      "rules": {}
     },
     "1264deca-6007-445a-93b2-fdebdf4b3b1a": {
       "id": "1264deca-6007-445a-93b2-fdebdf4b3b1a",
@@ -106,7 +111,8 @@
       "children": [],
       "type": "Heading",
       "parent": "806840a3-124e-4367-ad45-30e3dccc5bf7",
-      "rootParentType": "Heading"
+      "rootParentType": "Heading",
+      "rules": {}
     },
     "5621dc39-730f-4a61-9e07-3ede5fd72f31": {
       "id": "5621dc39-730f-4a61-9e07-3ede5fd72f31",
@@ -118,7 +124,8 @@
       "children": [],
       "type": "Link",
       "parent": "806840a3-124e-4367-ad45-30e3dccc5bf7",
-      "rootParentType": "Link"
+      "rootParentType": "Link",
+      "rules": {}
     },
     "998d0b07-ee74-4c80-8490-2041d3f0ef8b": {
       "id": "998d0b07-ee74-4c80-8490-2041d3f0ef8b",
@@ -130,7 +137,8 @@
       "children": [],
       "type": "Link",
       "parent": "806840a3-124e-4367-ad45-30e3dccc5bf7",
-      "rootParentType": "Link"
+      "rootParentType": "Link",
+      "rules": {}
     },
     "979aed0d-0b9e-4bf0-bc9a-13fddae7dc66": {
       "id": "979aed0d-0b9e-4bf0-bc9a-13fddae7dc66",
@@ -142,7 +150,8 @@
       "children": [],
       "type": "Link",
       "parent": "806840a3-124e-4367-ad45-30e3dccc5bf7",
-      "rootParentType": "Link"
+      "rootParentType": "Link",
+      "rules": {}
     },
     "a2f737ef-d6d1-4415-ac50-b6b2cc48223f": {
       "id": "a2f737ef-d6d1-4415-ac50-b6b2cc48223f",
@@ -154,7 +163,8 @@
       "children": [],
       "type": "Link",
       "parent": "806840a3-124e-4367-ad45-30e3dccc5bf7",
-      "rootParentType": "Link"
+      "rootParentType": "Link",
+      "rules": {}
     },
     "a3587cfc-448c-4fa8-836b-b12c2cba8c61": {
       "id": "a3587cfc-448c-4fa8-836b-b12c2cba8c61",
@@ -171,7 +181,8 @@
       ],
       "type": "Stack",
       "parent": "2032f29c-094c-4d0d-bc7a-81e6d4751640",
-      "rootParentType": "Stack"
+      "rootParentType": "Stack",
+      "rules": {}
     },
     "162fe1b3-5def-47ee-9a9f-a12571f9c7de": {
       "id": "162fe1b3-5def-47ee-9a9f-a12571f9c7de",
@@ -187,7 +198,8 @@
       ],
       "type": "Stack",
       "parent": "a3587cfc-448c-4fa8-836b-b12c2cba8c61",
-      "rootParentType": "Stack"
+      "rootParentType": "Stack",
+      "rules": {}
     },
     "79d88769-974f-44ac-8d4f-187f23edf7a2": {
       "id": "79d88769-974f-44ac-8d4f-187f23edf7a2",
@@ -204,7 +216,8 @@
       ],
       "type": "Stack",
       "parent": "162fe1b3-5def-47ee-9a9f-a12571f9c7de",
-      "rootParentType": "Stack"
+      "rootParentType": "Stack",
+      "rules": {}
     },
     "150c6c9a-dceb-453a-a867-dfe68c7a324a": {
       "id": "150c6c9a-dceb-453a-a867-dfe68c7a324a",
@@ -217,7 +230,8 @@
       "children": [],
       "type": "Image",
       "parent": "79d88769-974f-44ac-8d4f-187f23edf7a2",
-      "rootParentType": "Image"
+      "rootParentType": "Image",
+      "rules": {}
     },
     "333e1dd8-1b76-416b-8311-8899260dd634": {
       "id": "333e1dd8-1b76-416b-8311-8899260dd634",
@@ -232,7 +246,8 @@
       "children": [],
       "type": "Text",
       "parent": "79d88769-974f-44ac-8d4f-187f23edf7a2",
-      "rootParentType": "Text"
+      "rootParentType": "Text",
+      "rules": {}
     },
     "2558b6f6-0be2-4cd4-b0de-be08cc759040": {
       "id": "2558b6f6-0be2-4cd4-b0de-be08cc759040",
@@ -251,7 +266,8 @@
       "children": [],
       "type": "Button",
       "parent": "a3587cfc-448c-4fa8-836b-b12c2cba8c61",
-      "rootParentType": "Button"
+      "rootParentType": "Button",
+      "rules": {}
     },
     "6a7fab9a-1830-41ad-827b-ab868cb40c66": {
       "id": "6a7fab9a-1830-41ad-827b-ab868cb40c66",
@@ -273,7 +289,8 @@
       ],
       "type": "Stack",
       "parent": "cb0ce3a1-c389-4d43-8460-de469eb31df5",
-      "rootParentType": "Stack"
+      "rootParentType": "Stack",
+      "rules": {}
     },
     "5810b52d-1e36-4f04-ad26-aa9ce178a08b": {
       "id": "5810b52d-1e36-4f04-ad26-aa9ce178a08b",
@@ -291,7 +308,8 @@
       ],
       "type": "Stack",
       "parent": "6a7fab9a-1830-41ad-827b-ab868cb40c66",
-      "rootParentType": "Stack"
+      "rootParentType": "Stack",
+      "rules": {}
     },
     "71b7cd8f-4869-49e7-97be-302d45569adc": {
       "id": "71b7cd8f-4869-49e7-97be-302d45569adc",
@@ -304,7 +322,8 @@
       "children": [],
       "type": "Heading",
       "parent": "5810b52d-1e36-4f04-ad26-aa9ce178a08b",
-      "rootParentType": "Heading"
+      "rootParentType": "Heading",
+      "rules": {}
     },
     "a2e3843d-6c87-4642-8d98-763a3db13f54": {
       "id": "a2e3843d-6c87-4642-8d98-763a3db13f54",
@@ -320,7 +339,8 @@
       ],
       "type": "Stack",
       "parent": "5810b52d-1e36-4f04-ad26-aa9ce178a08b",
-      "rootParentType": "Stack"
+      "rootParentType": "Stack",
+      "rules": {}
     },
     "2ae7d7b9-1ade-4885-b44a-843e24124ea0": {
       "id": "2ae7d7b9-1ade-4885-b44a-843e24124ea0",
@@ -333,7 +353,8 @@
       "children": [],
       "type": "Heading",
       "parent": "a2e3843d-6c87-4642-8d98-763a3db13f54",
-      "rootParentType": "Heading"
+      "rootParentType": "Heading",
+      "rules": {}
     },
     "37084ce1-a1f0-4bc7-99f5-fbd1247b31b1": {
       "id": "37084ce1-a1f0-4bc7-99f5-fbd1247b31b1",
@@ -346,7 +367,8 @@
       "children": [],
       "type": "Heading",
       "parent": "a2e3843d-6c87-4642-8d98-763a3db13f54",
-      "rootParentType": "Heading"
+      "rootParentType": "Heading",
+      "rules": {}
     },
     "06d26c5a-4c6b-4988-b2ea-ee6f2f7361b4": {
       "id": "06d26c5a-4c6b-4988-b2ea-ee6f2f7361b4",
@@ -363,7 +385,8 @@
       ],
       "type": "Stack",
       "parent": "6a7fab9a-1830-41ad-827b-ab868cb40c66",
-      "rootParentType": "Stack"
+      "rootParentType": "Stack",
+      "rules": {}
     },
     "82da913b-bc38-4ca0-ad60-1f95cb5c474b": {
       "id": "82da913b-bc38-4ca0-ad60-1f95cb5c474b",
@@ -375,7 +398,8 @@
       "children": [],
       "type": "Text",
       "parent": "06d26c5a-4c6b-4988-b2ea-ee6f2f7361b4",
-      "rootParentType": "Text"
+      "rootParentType": "Text",
+      "rules": {}
     },
     "a7a3ceab-3e18-4267-a6fd-37dadc633734": {
       "id": "a7a3ceab-3e18-4267-a6fd-37dadc633734",
@@ -387,7 +411,8 @@
       "children": [],
       "type": "Text",
       "parent": "06d26c5a-4c6b-4988-b2ea-ee6f2f7361b4",
-      "rootParentType": "Text"
+      "rootParentType": "Text",
+      "rules": {}
     },
     "3ab8ac77-54fb-4759-8e19-0a9a3f8b3b2e": {
       "id": "3ab8ac77-54fb-4759-8e19-0a9a3f8b3b2e",
@@ -415,7 +440,8 @@
       ],
       "type": "Stack",
       "parent": "6a7fab9a-1830-41ad-827b-ab868cb40c66",
-      "rootParentType": "Stack"
+      "rootParentType": "Stack",
+      "rules": {}
     },
     "018a9d68-14f8-407d-8ef9-9857e5588fd9": {
       "id": "018a9d68-14f8-407d-8ef9-9857e5588fd9",
@@ -438,7 +464,8 @@
       ],
       "type": "Stack",
       "parent": "3ab8ac77-54fb-4759-8e19-0a9a3f8b3b2e",
-      "rootParentType": "Stack"
+      "rootParentType": "Stack",
+      "rules": {}
     },
     "9f817125-2952-470e-aadd-b8160f3989c8": {
       "id": "9f817125-2952-470e-aadd-b8160f3989c8",
@@ -451,7 +478,8 @@
       "children": [],
       "type": "Image",
       "parent": "018a9d68-14f8-407d-8ef9-9857e5588fd9",
-      "rootParentType": "Image"
+      "rootParentType": "Image",
+      "rules": {}
     },
     "81e082d7-2dea-4dd8-8a7b-b8144819b1c0": {
       "id": "81e082d7-2dea-4dd8-8a7b-b8144819b1c0",
@@ -465,7 +493,8 @@
       "children": [],
       "type": "Link",
       "parent": "018a9d68-14f8-407d-8ef9-9857e5588fd9",
-      "rootParentType": "Link"
+      "rootParentType": "Link",
+      "rules": {}
     },
     "5867fcd2-1b6a-418d-bd13-0dfde89f5f73": {
       "id": "5867fcd2-1b6a-418d-bd13-0dfde89f5f73",
@@ -478,7 +507,8 @@
       "children": [],
       "type": "Divider",
       "parent": "3ab8ac77-54fb-4759-8e19-0a9a3f8b3b2e",
-      "rootParentType": "Divider"
+      "rootParentType": "Divider",
+      "rules": {}
     },
     "2cd55e8f-d083-44a2-88a2-043d044c761c": {
       "id": "2cd55e8f-d083-44a2-88a2-043d044c761c",
@@ -491,7 +521,8 @@
       "children": [],
       "type": "Image",
       "parent": "43ca4b23-08bd-4920-8815-063d27592474",
-      "rootParentType": "Image"
+      "rootParentType": "Image",
+      "rules": {}
     },
     "0af85012-93a8-49e9-988f-f10854f584ce": {
       "id": "0af85012-93a8-49e9-988f-f10854f584ce",
@@ -505,7 +536,8 @@
       "children": [],
       "type": "Link",
       "parent": "43ca4b23-08bd-4920-8815-063d27592474",
-      "rootParentType": "Link"
+      "rootParentType": "Link",
+      "rules": {}
     },
     "43ca4b23-08bd-4920-8815-063d27592474": {
       "id": "43ca4b23-08bd-4920-8815-063d27592474",
@@ -528,7 +560,8 @@
       ],
       "type": "Stack",
       "parent": "3ab8ac77-54fb-4759-8e19-0a9a3f8b3b2e",
-      "rootParentType": "Stack"
+      "rootParentType": "Stack",
+      "rules": {}
     },
     "ffee6d46-768a-4a4b-9caa-742f29dcee85": {
       "id": "ffee6d46-768a-4a4b-9caa-742f29dcee85",
@@ -541,7 +574,8 @@
       "children": [],
       "type": "Divider",
       "parent": "3ab8ac77-54fb-4759-8e19-0a9a3f8b3b2e",
-      "rootParentType": "Divider"
+      "rootParentType": "Divider",
+      "rules": {}
     },
     "f0059265-fef6-438e-af2d-75cee6164802": {
       "id": "f0059265-fef6-438e-af2d-75cee6164802",
@@ -554,7 +588,8 @@
       "children": [],
       "type": "Image",
       "parent": "5bacf1e0-293b-4797-afe7-0da059e4d5c6",
-      "rootParentType": "Image"
+      "rootParentType": "Image",
+      "rules": {}
     },
     "e4d36ab6-860d-4f34-8789-483f5dc1a0a6": {
       "id": "e4d36ab6-860d-4f34-8789-483f5dc1a0a6",
@@ -566,7 +601,8 @@
       "children": [],
       "type": "Link",
       "parent": "5bacf1e0-293b-4797-afe7-0da059e4d5c6",
-      "rootParentType": "Link"
+      "rootParentType": "Link",
+      "rules": {}
     },
     "5bacf1e0-293b-4797-afe7-0da059e4d5c6": {
       "id": "5bacf1e0-293b-4797-afe7-0da059e4d5c6",
@@ -589,7 +625,8 @@
       ],
       "type": "Stack",
       "parent": "3ab8ac77-54fb-4759-8e19-0a9a3f8b3b2e",
-      "rootParentType": "Stack"
+      "rootParentType": "Stack",
+      "rules": {}
     },
     "30da8c6f-9631-4e9c-a8df-3e54c20c9b3d": {
       "id": "30da8c6f-9631-4e9c-a8df-3e54c20c9b3d",
@@ -602,7 +639,8 @@
       "children": [],
       "type": "Divider",
       "parent": "3ab8ac77-54fb-4759-8e19-0a9a3f8b3b2e",
-      "rootParentType": "Divider"
+      "rootParentType": "Divider",
+      "rules": {}
     },
     "3bcfeac7-2ce8-44ab-a89d-4d13a9c019f6": {
       "id": "3bcfeac7-2ce8-44ab-a89d-4d13a9c019f6",
@@ -615,7 +653,8 @@
       "children": [],
       "type": "Image",
       "parent": "36916e5c-b6f0-40a9-ae99-19f05ac61468",
-      "rootParentType": "Image"
+      "rootParentType": "Image",
+      "rules": {}
     },
     "ff77ca59-64d0-4148-85a2-289c5267570d": {
       "id": "ff77ca59-64d0-4148-85a2-289c5267570d",
@@ -627,7 +666,8 @@
       "children": [],
       "type": "Link",
       "parent": "36916e5c-b6f0-40a9-ae99-19f05ac61468",
-      "rootParentType": "Link"
+      "rootParentType": "Link",
+      "rules": {}
     },
     "36916e5c-b6f0-40a9-ae99-19f05ac61468": {
       "id": "36916e5c-b6f0-40a9-ae99-19f05ac61468",
@@ -650,7 +690,8 @@
       ],
       "type": "Stack",
       "parent": "3ab8ac77-54fb-4759-8e19-0a9a3f8b3b2e",
-      "rootParentType": "Stack"
+      "rootParentType": "Stack",
+      "rules": {}
     }
   },
   "login": {
@@ -661,7 +702,8 @@
       "children": [
         "9cb7ce25-048b-410a-bbdf-762dd99057f6"
       ],
-      "props": {}
+      "props": {},
+      "rules": {}
     },
     "9cb7ce25-048b-410a-bbdf-762dd99057f6": {
       "id": "9cb7ce25-048b-410a-bbdf-762dd99057f6",
@@ -680,7 +722,8 @@
       ],
       "type": "Form",
       "parent": "root",
-      "rootParentType": "Form"
+      "rootParentType": "Form",
+      "rules": {}
     },
     "db11e809-872c-4ef8-aaa8-5fc3e9c26700": {
       "id": "db11e809-872c-4ef8-aaa8-5fc3e9c26700",
@@ -701,7 +744,8 @@
       ],
       "type": "Stack",
       "parent": "9cb7ce25-048b-410a-bbdf-762dd99057f6",
-      "rootParentType": "Stack"
+      "rootParentType": "Stack",
+      "rules": {}
     },
     "45293659-097c-4e72-85b3-db8b21fe7423": {
       "id": "45293659-097c-4e72-85b3-db8b21fe7423",
@@ -720,7 +764,8 @@
       ],
       "type": "Stack",
       "parent": "db11e809-872c-4ef8-aaa8-5fc3e9c26700",
-      "rootParentType": "Stack"
+      "rootParentType": "Stack",
+      "rules": {}
     },
     "b8161b76-6c3f-4730-9c48-180e1b95f3e1": {
       "id": "b8161b76-6c3f-4730-9c48-180e1b95f3e1",
@@ -738,7 +783,8 @@
       ],
       "type": "Stack",
       "parent": "45293659-097c-4e72-85b3-db8b21fe7423",
-      "rootParentType": "Stack"
+      "rootParentType": "Stack",
+      "rules": {}
     },
     "5052a067-746f-4805-abf0-26ece7df0435": {
       "id": "5052a067-746f-4805-abf0-26ece7df0435",
@@ -756,7 +802,8 @@
       ],
       "type": "Stack",
       "parent": "b8161b76-6c3f-4730-9c48-180e1b95f3e1",
-      "rootParentType": "Stack"
+      "rootParentType": "Stack",
+      "rules": {}
     },
     "edbf06a1-dd9d-492c-9605-e04217b34ef4": {
       "id": "edbf06a1-dd9d-492c-9605-e04217b34ef4",
@@ -768,7 +815,8 @@
       "children": [],
       "type": "Heading",
       "parent": "5052a067-746f-4805-abf0-26ece7df0435",
-      "rootParentType": "Heading"
+      "rootParentType": "Heading",
+      "rules": {}
     },
     "76d51589-29b0-4f73-a9fa-467c142042df": {
       "id": "76d51589-29b0-4f73-a9fa-467c142042df",
@@ -780,7 +828,8 @@
       "children": [],
       "type": "Text",
       "parent": "5052a067-746f-4805-abf0-26ece7df0435",
-      "rootParentType": "Text"
+      "rootParentType": "Text",
+      "rules": {}
     },
     "a0665bd0-25f3-48ff-8767-8e6d42e909b9": {
       "id": "a0665bd0-25f3-48ff-8767-8e6d42e909b9",
@@ -798,7 +847,8 @@
       ],
       "type": "Stack",
       "parent": "b8161b76-6c3f-4730-9c48-180e1b95f3e1",
-      "rootParentType": "Stack"
+      "rootParentType": "Stack",
+      "rules": {}
     },
     "ba435ef8-a278-47e2-bd00-02c85b59a2fd": {
       "id": "ba435ef8-a278-47e2-bd00-02c85b59a2fd",
@@ -815,7 +865,8 @@
       ],
       "type": "Stack",
       "parent": "a0665bd0-25f3-48ff-8767-8e6d42e909b9",
-      "rootParentType": "Stack"
+      "rootParentType": "Stack",
+      "rules": {}
     },
     "20e4665c-abb1-45ff-b0e5-ace61630e36e": {
       "id": "20e4665c-abb1-45ff-b0e5-ace61630e36e",
@@ -833,7 +884,8 @@
       ],
       "type": "FormControl",
       "parent": "ba435ef8-a278-47e2-bd00-02c85b59a2fd",
-      "rootParentType": "FormControl"
+      "rootParentType": "FormControl",
+      "rules": {}
     },
     "09fa1e46-f38f-4f66-87fc-0ab3f0451745": {
       "id": "09fa1e46-f38f-4f66-87fc-0ab3f0451745",
@@ -845,7 +897,8 @@
       "children": [],
       "type": "FormLabel",
       "parent": "20e4665c-abb1-45ff-b0e5-ace61630e36e",
-      "rootParentType": "FormLabel"
+      "rootParentType": "FormLabel",
+      "rules": {}
     },
     "345eaadc-4853-4fd0-ae51-6fc9fa596a92": {
       "id": "345eaadc-4853-4fd0-ae51-6fc9fa596a92",
@@ -861,7 +914,8 @@
       "children": [],
       "type": "Input",
       "parent": "20e4665c-abb1-45ff-b0e5-ace61630e36e",
-      "rootParentType": "Input"
+      "rootParentType": "Input",
+      "rules": {}
     },
     "ce147eb9-a37a-46ab-b665-729382ac03d0": {
       "id": "ce147eb9-a37a-46ab-b665-729382ac03d0",
@@ -872,7 +926,8 @@
       "children": [],
       "type": "FormErrorMessage",
       "parent": "20e4665c-abb1-45ff-b0e5-ace61630e36e",
-      "rootParentType": "FormErrorMessage"
+      "rootParentType": "FormErrorMessage",
+      "rules": {}
     },
     "2db77fde-414c-4e30-af77-ca194a90a056": {
       "id": "2db77fde-414c-4e30-af77-ca194a90a056",
@@ -884,7 +939,8 @@
       "children": [],
       "type": "FormLabel",
       "parent": "dcb9e22b-149e-4515-a77e-70840edc670b",
-      "rootParentType": "FormLabel"
+      "rootParentType": "FormLabel",
+      "rules": {}
     },
     "a3f5e380-493f-48a5-8b66-3033048cd375": {
       "id": "a3f5e380-493f-48a5-8b66-3033048cd375",
@@ -895,7 +951,8 @@
       "children": [],
       "type": "FormErrorMessage",
       "parent": "dcb9e22b-149e-4515-a77e-70840edc670b",
-      "rootParentType": "FormErrorMessage"
+      "rootParentType": "FormErrorMessage",
+      "rules": {}
     },
     "dcb9e22b-149e-4515-a77e-70840edc670b": {
       "id": "dcb9e22b-149e-4515-a77e-70840edc670b",
@@ -913,7 +970,8 @@
       ],
       "type": "FormControl",
       "parent": "ba435ef8-a278-47e2-bd00-02c85b59a2fd",
-      "rootParentType": "FormControl"
+      "rootParentType": "FormControl",
+      "rules": {}
     },
     "e2506094-8f3c-46bd-8328-206162e2bb94": {
       "id": "e2506094-8f3c-46bd-8328-206162e2bb94",
@@ -931,7 +989,8 @@
       ],
       "type": "Stack",
       "parent": "a0665bd0-25f3-48ff-8767-8e6d42e909b9",
-      "rootParentType": "Stack"
+      "rootParentType": "Stack",
+      "rules": {}
     },
     "1f967bcd-69af-494d-aacf-145ca39c17df": {
       "id": "1f967bcd-69af-494d-aacf-145ca39c17df",
@@ -946,7 +1005,8 @@
       "children": [],
       "type": "Link",
       "parent": "e2506094-8f3c-46bd-8328-206162e2bb94",
-      "rootParentType": "Link"
+      "rootParentType": "Link",
+      "rules": {}
     },
     "129aba91-24d1-4232-9c39-c5ba62135d5c": {
       "id": "129aba91-24d1-4232-9c39-c5ba62135d5c",
@@ -964,7 +1024,8 @@
       ],
       "type": "Stack",
       "parent": "a0665bd0-25f3-48ff-8767-8e6d42e909b9",
-      "rootParentType": "Stack"
+      "rootParentType": "Stack",
+      "rules": {}
     },
     "d89df736-a138-4076-a41f-87525f8ce4b5": {
       "id": "d89df736-a138-4076-a41f-87525f8ce4b5",
@@ -983,7 +1044,8 @@
       ],
       "type": "Stack",
       "parent": "129aba91-24d1-4232-9c39-c5ba62135d5c",
-      "rootParentType": "Stack"
+      "rootParentType": "Stack",
+      "rules": {}
     },
     "fad6dd88-1eb3-49e5-8cb8-f1c4bf1dd7ad": {
       "id": "fad6dd88-1eb3-49e5-8cb8-f1c4bf1dd7ad",
@@ -996,7 +1058,8 @@
       "children": [],
       "type": "Text",
       "parent": "d89df736-a138-4076-a41f-87525f8ce4b5",
-      "rootParentType": "Text"
+      "rootParentType": "Text",
+      "rules": {}
     },
     "14a7450e-09ff-4cca-98d0-f65ba180066d": {
       "id": "14a7450e-09ff-4cca-98d0-f65ba180066d",
@@ -1014,7 +1077,8 @@
       ],
       "type": "Stack",
       "parent": "db11e809-872c-4ef8-aaa8-5fc3e9c26700",
-      "rootParentType": "Stack"
+      "rootParentType": "Stack",
+      "rules": {}
     },
     "d91e7c21-9f17-4867-8644-c5e2acf6e8c9": {
       "id": "d91e7c21-9f17-4867-8644-c5e2acf6e8c9",
@@ -1029,7 +1093,8 @@
       "children": [],
       "type": "Image",
       "parent": "14a7450e-09ff-4cca-98d0-f65ba180066d",
-      "rootParentType": "Image"
+      "rootParentType": "Image",
+      "rules": {}
     },
     "cdffeabc-e643-4aec-a0bf-7c392f80bb95": {
       "id": "cdffeabc-e643-4aec-a0bf-7c392f80bb95",
@@ -1043,7 +1108,8 @@
       "children": [],
       "type": "Link",
       "parent": "d89df736-a138-4076-a41f-87525f8ce4b5",
-      "rootParentType": "Link"
+      "rootParentType": "Link",
+      "rules": {}
     },
     "b0612980-e672-4bc7-aba0-2f806598f598": {
       "id": "b0612980-e672-4bc7-aba0-2f806598f598",
@@ -1065,7 +1131,8 @@
       "children": [],
       "type": "SubmitButton",
       "parent": "80822add-72c5-47eb-bbfd-a81635e4e285",
-      "rootParentType": "SubmitButton"
+      "rootParentType": "SubmitButton",
+      "rules": {}
     },
     "950033c0-37ea-4708-8216-ae9b63be45d3": {
       "id": "950033c0-37ea-4708-8216-ae9b63be45d3",
@@ -1080,7 +1147,8 @@
       "children": [],
       "type": "Loader",
       "parent": "5052a067-746f-4805-abf0-26ece7df0435",
-      "rootParentType": "Loader"
+      "rootParentType": "Loader",
+      "rules": {}
     },
     "50a5f9ca-3d19-4540-b46d-1ead0d0cfe2c": {
       "id": "50a5f9ca-3d19-4540-b46d-1ead0d0cfe2c",
@@ -1100,7 +1168,8 @@
       ],
       "type": "FormControl",
       "parent": "45293659-097c-4e72-85b3-db8b21fe7423",
-      "rootParentType": "FormControl"
+      "rootParentType": "FormControl",
+      "rules": {}
     },
     "854a9da6-4242-4e53-8c43-6347da96a2cd": {
       "id": "854a9da6-4242-4e53-8c43-6347da96a2cd",
@@ -1111,7 +1180,8 @@
       "children": [],
       "type": "BusinessMsg",
       "parent": "50a5f9ca-3d19-4540-b46d-1ead0d0cfe2c",
-      "rootParentType": "BusinessMsg"
+      "rootParentType": "BusinessMsg",
+      "rules": {}
     },
     "640f5601-e614-44d6-bd17-1a169de69548": {
       "id": "640f5601-e614-44d6-bd17-1a169de69548",
@@ -1126,7 +1196,8 @@
       "children": [],
       "type": "PasswordInput",
       "parent": "dcb9e22b-149e-4515-a77e-70840edc670b",
-      "rootParentType": "PasswordInput"
+      "rootParentType": "PasswordInput",
+      "rules": {}
     },
     "1ca9e8fa-3f32-43f4-ba69-f5f5cac4b1a5": {
       "id": "1ca9e8fa-3f32-43f4-ba69-f5f5cac4b1a5",
@@ -1142,7 +1213,8 @@
       ],
       "type": "FormControl",
       "parent": "e2506094-8f3c-46bd-8328-206162e2bb94",
-      "rootParentType": "FormControl"
+      "rootParentType": "FormControl",
+      "rules": {}
     },
     "b3c8d275-a4fc-48c7-bad8-ed4fa65b7c7d": {
       "id": "b3c8d275-a4fc-48c7-bad8-ed4fa65b7c7d",
@@ -1156,7 +1228,8 @@
       "children": [],
       "type": "Checkbox",
       "parent": "1ca9e8fa-3f32-43f4-ba69-f5f5cac4b1a5",
-      "rootParentType": "Checkbox"
+      "rootParentType": "Checkbox",
+      "rules": {}
     },
     "54aec12f-d039-495d-8194-ab73d92fbb66": {
       "id": "54aec12f-d039-495d-8194-ab73d92fbb66",
@@ -1167,7 +1240,8 @@
       "children": [],
       "type": "FormErrorMessage",
       "parent": "1ca9e8fa-3f32-43f4-ba69-f5f5cac4b1a5",
-      "rootParentType": "FormErrorMessage"
+      "rootParentType": "FormErrorMessage",
+      "rules": {}
     },
     "80822add-72c5-47eb-bbfd-a81635e4e285": {
       "id": "80822add-72c5-47eb-bbfd-a81635e4e285",
@@ -1184,7 +1258,8 @@
       ],
       "type": "Stack",
       "parent": "129aba91-24d1-4232-9c39-c5ba62135d5c",
-      "rootParentType": "Stack"
+      "rootParentType": "Stack",
+      "rules": {}
     },
     "c2596fb9-a536-4cbc-8ea3-d05c3d2e8867": {
       "id": "c2596fb9-a536-4cbc-8ea3-d05c3d2e8867",
@@ -1201,7 +1276,8 @@
       "children": [],
       "type": "Button",
       "parent": "80822add-72c5-47eb-bbfd-a81635e4e285",
-      "rootParentType": "Button"
+      "rootParentType": "Button",
+      "rules": {}
     }
   },
   "signup": {
@@ -1212,7 +1288,8 @@
       "children": [
         "86905b09-04c5-4c19-b65e-f69e8c5791bd"
       ],
-      "props": {}
+      "props": {},
+      "rules": {}
     },
     "86905b09-04c5-4c19-b65e-f69e8c5791bd": {
       "id": "86905b09-04c5-4c19-b65e-f69e8c5791bd",
@@ -1232,7 +1309,8 @@
       ],
       "type": "Container",
       "parent": "root",
-      "rootParentType": "Container"
+      "rootParentType": "Container",
+      "rules": {}
     },
     "f557b45a-6005-4dcb-9a56-9923edb37f80": {
       "id": "f557b45a-6005-4dcb-9a56-9923edb37f80",
@@ -1253,7 +1331,8 @@
       ],
       "type": "Stack",
       "parent": "86905b09-04c5-4c19-b65e-f69e8c5791bd",
-      "rootParentType": "Stack"
+      "rootParentType": "Stack",
+      "rules": {}
     },
     "8df8f3e3-62bd-43cc-8d02-2a0d0dc79ffd": {
       "id": "8df8f3e3-62bd-43cc-8d02-2a0d0dc79ffd",
@@ -1271,7 +1350,8 @@
       ],
       "type": "Stack",
       "parent": "f557b45a-6005-4dcb-9a56-9923edb37f80",
-      "rootParentType": "Stack"
+      "rootParentType": "Stack",
+      "rules": {}
     },
     "6ae2ca1c-a580-4e0d-b02b-302a52000a75": {
       "id": "6ae2ca1c-a580-4e0d-b02b-302a52000a75",
@@ -1289,7 +1369,8 @@
       ],
       "type": "Stack",
       "parent": "f557b45a-6005-4dcb-9a56-9923edb37f80",
-      "rootParentType": "Stack"
+      "rootParentType": "Stack",
+      "rules": {}
     },
     "3f557dc8-3b86-4d37-a1dd-65083d86bc85": {
       "id": "3f557dc8-3b86-4d37-a1dd-65083d86bc85",
@@ -1304,7 +1385,8 @@
       "children": [],
       "type": "Image",
       "parent": "6ae2ca1c-a580-4e0d-b02b-302a52000a75",
-      "rootParentType": "Image"
+      "rootParentType": "Image",
+      "rules": {}
     },
     "24e22d29-9be2-4758-a288-d29fb6214873": {
       "id": "24e22d29-9be2-4758-a288-d29fb6214873",
@@ -1322,7 +1404,8 @@
       ],
       "type": "Stack",
       "parent": "8df8f3e3-62bd-43cc-8d02-2a0d0dc79ffd",
-      "rootParentType": "Stack"
+      "rootParentType": "Stack",
+      "rules": {}
     },
     "071c9921-6ea8-4624-8407-74a2bd792e93": {
       "id": "071c9921-6ea8-4624-8407-74a2bd792e93",
@@ -1340,7 +1423,8 @@
       ],
       "type": "Stack",
       "parent": "24e22d29-9be2-4758-a288-d29fb6214873",
-      "rootParentType": "Stack"
+      "rootParentType": "Stack",
+      "rules": {}
     },
     "ff03bd32-3263-4bce-b992-4c852a02e833": {
       "id": "ff03bd32-3263-4bce-b992-4c852a02e833",
@@ -1352,7 +1436,8 @@
       "children": [],
       "type": "Heading",
       "parent": "071c9921-6ea8-4624-8407-74a2bd792e93",
-      "rootParentType": "Heading"
+      "rootParentType": "Heading",
+      "rules": {}
     },
     "c8ce8442-0d7f-48c1-98ac-69a427ba2c36": {
       "id": "c8ce8442-0d7f-48c1-98ac-69a427ba2c36",
@@ -1364,7 +1449,8 @@
       "children": [],
       "type": "Text",
       "parent": "071c9921-6ea8-4624-8407-74a2bd792e93",
-      "rootParentType": "Text"
+      "rootParentType": "Text",
+      "rules": {}
     },
     "4d484153-c862-4d37-b453-02cacd385c9f": {
       "id": "4d484153-c862-4d37-b453-02cacd385c9f",
@@ -1381,7 +1467,8 @@
       ],
       "type": "Stack",
       "parent": "24e22d29-9be2-4758-a288-d29fb6214873",
-      "rootParentType": "Stack"
+      "rootParentType": "Stack",
+      "rules": {}
     },
     "466b0175-3e8c-4e66-8ed6-6f67cd1068d4": {
       "id": "466b0175-3e8c-4e66-8ed6-6f67cd1068d4",
@@ -1400,7 +1487,8 @@
       ],
       "type": "Stack",
       "parent": "4d484153-c862-4d37-b453-02cacd385c9f",
-      "rootParentType": "Stack"
+      "rootParentType": "Stack",
+      "rules": {}
     },
     "71c07269-9522-45ca-8177-3ef812c06ee7": {
       "id": "71c07269-9522-45ca-8177-3ef812c06ee7",
@@ -1418,7 +1506,8 @@
       ],
       "type": "Stack",
       "parent": "4d484153-c862-4d37-b453-02cacd385c9f",
-      "rootParentType": "Stack"
+      "rootParentType": "Stack",
+      "rules": {}
     },
     "98c62d84-32eb-4c29-a3c5-f3aaa74c060a": {
       "id": "98c62d84-32eb-4c29-a3c5-f3aaa74c060a",
@@ -1434,7 +1523,8 @@
       "children": [],
       "type": "Button",
       "parent": "71c07269-9522-45ca-8177-3ef812c06ee7",
-      "rootParentType": "Button"
+      "rootParentType": "Button",
+      "rules": {}
     },
     "59f2a521-cae3-4676-b2c3-dc53166799bb": {
       "id": "59f2a521-cae3-4676-b2c3-dc53166799bb",
@@ -1450,7 +1540,8 @@
       "children": [],
       "type": "Button",
       "parent": "71c07269-9522-45ca-8177-3ef812c06ee7",
-      "rootParentType": "Button"
+      "rootParentType": "Button",
+      "rules": {}
     },
     "df0963e3-70f7-4991-bf58-b12daa5e955a": {
       "id": "df0963e3-70f7-4991-bf58-b12daa5e955a",
@@ -1468,7 +1559,8 @@
       ],
       "type": "FormControl",
       "parent": "466b0175-3e8c-4e66-8ed6-6f67cd1068d4",
-      "rootParentType": "FormControl"
+      "rootParentType": "FormControl",
+      "rules": {}
     },
     "486a0804-87d6-4ba3-8a56-e8f31f1769c6": {
       "id": "486a0804-87d6-4ba3-8a56-e8f31f1769c6",
@@ -1480,7 +1572,8 @@
       "children": [],
       "type": "FormLabel",
       "parent": "df0963e3-70f7-4991-bf58-b12daa5e955a",
-      "rootParentType": "FormLabel"
+      "rootParentType": "FormLabel",
+      "rules": {}
     },
     "08ef360e-e1d7-4f9e-91e9-751c101367b4": {
       "id": "08ef360e-e1d7-4f9e-91e9-751c101367b4",
@@ -1493,7 +1586,8 @@
       "children": [],
       "type": "Input",
       "parent": "df0963e3-70f7-4991-bf58-b12daa5e955a",
-      "rootParentType": "Input"
+      "rootParentType": "Input",
+      "rules": {}
     },
     "45caca9c-75c3-434e-96ae-82d347b71eab": {
       "id": "45caca9c-75c3-434e-96ae-82d347b71eab",
@@ -1504,7 +1598,8 @@
       "children": [],
       "type": "FormErrorMessage",
       "parent": "df0963e3-70f7-4991-bf58-b12daa5e955a",
-      "rootParentType": "FormErrorMessage"
+      "rootParentType": "FormErrorMessage",
+      "rules": {}
     },
     "3a9543dc-a6d3-4abd-994f-816a24b03bfc": {
       "id": "3a9543dc-a6d3-4abd-994f-816a24b03bfc",
@@ -1516,7 +1611,8 @@
       "children": [],
       "type": "FormLabel",
       "parent": "4130b6bc-8d7e-41da-a1a6-2f49a5c1b91a",
-      "rootParentType": "FormLabel"
+      "rootParentType": "FormLabel",
+      "rules": {}
     },
     "57943b17-a45e-40e3-9853-bc24f7b77735": {
       "id": "57943b17-a45e-40e3-9853-bc24f7b77735",
@@ -1529,7 +1625,8 @@
       "children": [],
       "type": "Input",
       "parent": "4130b6bc-8d7e-41da-a1a6-2f49a5c1b91a",
-      "rootParentType": "Input"
+      "rootParentType": "Input",
+      "rules": {}
     },
     "6c62ddb4-7b62-4259-b083-b9ad1c81f7e4": {
       "id": "6c62ddb4-7b62-4259-b083-b9ad1c81f7e4",
@@ -1540,7 +1637,8 @@
       "children": [],
       "type": "FormErrorMessage",
       "parent": "4130b6bc-8d7e-41da-a1a6-2f49a5c1b91a",
-      "rootParentType": "FormErrorMessage"
+      "rootParentType": "FormErrorMessage",
+      "rules": {}
     },
     "4130b6bc-8d7e-41da-a1a6-2f49a5c1b91a": {
       "id": "4130b6bc-8d7e-41da-a1a6-2f49a5c1b91a",
@@ -1557,7 +1655,8 @@
       ],
       "type": "FormControl",
       "parent": "466b0175-3e8c-4e66-8ed6-6f67cd1068d4",
-      "rootParentType": "FormControl"
+      "rootParentType": "FormControl",
+      "rules": {}
     },
     "83878f6b-d18d-4b75-bc6e-dccf1638417e": {
       "id": "83878f6b-d18d-4b75-bc6e-dccf1638417e",
@@ -1569,7 +1668,8 @@
       "children": [],
       "type": "FormLabel",
       "parent": "1ff3751f-9148-427d-b0d8-3096aefd7403",
-      "rootParentType": "FormLabel"
+      "rootParentType": "FormLabel",
+      "rules": {}
     },
     "61e5b71f-8f10-413f-9d45-e19cc22c57f3": {
       "id": "61e5b71f-8f10-413f-9d45-e19cc22c57f3",
@@ -1582,7 +1682,8 @@
       "children": [],
       "type": "Input",
       "parent": "1ff3751f-9148-427d-b0d8-3096aefd7403",
-      "rootParentType": "Input"
+      "rootParentType": "Input",
+      "rules": {}
     },
     "98c14e96-c46d-4ed3-a7fe-651457ea9df1": {
       "id": "98c14e96-c46d-4ed3-a7fe-651457ea9df1",
@@ -1593,7 +1694,8 @@
       "children": [],
       "type": "FormErrorMessage",
       "parent": "1ff3751f-9148-427d-b0d8-3096aefd7403",
-      "rootParentType": "FormErrorMessage"
+      "rootParentType": "FormErrorMessage",
+      "rules": {}
     },
     "1ff3751f-9148-427d-b0d8-3096aefd7403": {
       "id": "1ff3751f-9148-427d-b0d8-3096aefd7403",
@@ -1610,7 +1712,8 @@
       ],
       "type": "FormControl",
       "parent": "466b0175-3e8c-4e66-8ed6-6f67cd1068d4",
-      "rootParentType": "FormControl"
+      "rootParentType": "FormControl",
+      "rules": {}
     },
     "9f9f62b8-1e55-4077-b67c-c5c84abb8c92": {
       "id": "9f9f62b8-1e55-4077-b67c-c5c84abb8c92",
@@ -1628,7 +1731,8 @@
       ],
       "type": "Stack",
       "parent": "466b0175-3e8c-4e66-8ed6-6f67cd1068d4",
-      "rootParentType": "Stack"
+      "rootParentType": "Stack",
+      "rules": {}
     },
     "14e06ebc-b8b9-4500-9830-86abcb1b04c3": {
       "id": "14e06ebc-b8b9-4500-9830-86abcb1b04c3",
@@ -1640,7 +1744,8 @@
       "children": [],
       "type": "FormLabel",
       "parent": "be49b5fd-c23f-451e-b8a6-1588bec07b99",
-      "rootParentType": "FormLabel"
+      "rootParentType": "FormLabel",
+      "rules": {}
     },
     "cbefe27d-88e1-4936-ac23-84b635d64a22": {
       "id": "cbefe27d-88e1-4936-ac23-84b635d64a22",
@@ -1653,7 +1758,8 @@
       "children": [],
       "type": "Input",
       "parent": "be49b5fd-c23f-451e-b8a6-1588bec07b99",
-      "rootParentType": "Input"
+      "rootParentType": "Input",
+      "rules": {}
     },
     "db2b169d-0367-4f62-994f-d338d06a6533": {
       "id": "db2b169d-0367-4f62-994f-d338d06a6533",
@@ -1664,7 +1770,8 @@
       "children": [],
       "type": "FormErrorMessage",
       "parent": "be49b5fd-c23f-451e-b8a6-1588bec07b99",
-      "rootParentType": "FormErrorMessage"
+      "rootParentType": "FormErrorMessage",
+      "rules": {}
     },
     "be49b5fd-c23f-451e-b8a6-1588bec07b99": {
       "id": "be49b5fd-c23f-451e-b8a6-1588bec07b99",
@@ -1681,7 +1788,8 @@
       ],
       "type": "FormControl",
       "parent": "9f9f62b8-1e55-4077-b67c-c5c84abb8c92",
-      "rootParentType": "FormControl"
+      "rootParentType": "FormControl",
+      "rules": {}
     },
     "ca2e5853-78eb-4c8d-ab7c-fdea466d0c08": {
       "id": "ca2e5853-78eb-4c8d-ab7c-fdea466d0c08",
@@ -1693,7 +1801,8 @@
       "children": [],
       "type": "FormLabel",
       "parent": "dfa5d2f1-b090-4a26-b278-31b5df6725e7",
-      "rootParentType": "FormLabel"
+      "rootParentType": "FormLabel",
+      "rules": {}
     },
     "0cb6bb41-1a23-4a44-80d6-3ebcd99ef197": {
       "id": "0cb6bb41-1a23-4a44-80d6-3ebcd99ef197",
@@ -1706,7 +1815,8 @@
       "children": [],
       "type": "Input",
       "parent": "dfa5d2f1-b090-4a26-b278-31b5df6725e7",
-      "rootParentType": "Input"
+      "rootParentType": "Input",
+      "rules": {}
     },
     "55eda400-6c99-4d38-b4ad-105e845f6104": {
       "id": "55eda400-6c99-4d38-b4ad-105e845f6104",
@@ -1717,7 +1827,8 @@
       "children": [],
       "type": "FormErrorMessage",
       "parent": "dfa5d2f1-b090-4a26-b278-31b5df6725e7",
-      "rootParentType": "FormErrorMessage"
+      "rootParentType": "FormErrorMessage",
+      "rules": {}
     },
     "dfa5d2f1-b090-4a26-b278-31b5df6725e7": {
       "id": "dfa5d2f1-b090-4a26-b278-31b5df6725e7",
@@ -1734,7 +1845,8 @@
       ],
       "type": "FormControl",
       "parent": "9f9f62b8-1e55-4077-b67c-c5c84abb8c92",
-      "rootParentType": "FormControl"
+      "rootParentType": "FormControl",
+      "rules": {}
     },
     "7c4d9a09-07e8-4595-b1e4-896757272d76": {
       "id": "7c4d9a09-07e8-4595-b1e4-896757272d76",
@@ -1747,7 +1859,8 @@
       "children": [],
       "type": "Loader",
       "parent": "071c9921-6ea8-4624-8407-74a2bd792e93",
-      "rootParentType": "Loader"
+      "rootParentType": "Loader",
+      "rules": {}
     }
   },
   "restricted": {
@@ -1756,7 +1869,8 @@
       "parent": "root",
       "type": "Box",
       "children": [],
-      "props": {}
+      "props": {},
+      "rules": {}
     }
   }
 }
