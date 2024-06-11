@@ -8,7 +8,8 @@
         "86905b09-04c5-4c19-b65e-f69e8c5791bd"
       ],
       "props": {},
-      "rules": {}
+      "rules": {},
+      "actionGroup": {}
     },
     "86905b09-04c5-4c19-b65e-f69e8c5791bd": {
       "id": "86905b09-04c5-4c19-b65e-f69e8c5791bd",
@@ -33,7 +34,8 @@
       "type": "Container",
       "parent": "root",
       "rootParentType": "Container",
-      "rules": {}
+      "rules": {},
+      "actionGroup": {}
     },
     "ff03bd32-3263-4bce-b992-4c852a02e833": {
       "id": "ff03bd32-3263-4bce-b992-4c852a02e833",
@@ -49,7 +51,8 @@
       "type": "Heading",
       "parent": "5bf9f957-de73-422b-9989-bab86bc176f7",
       "rootParentType": "Heading",
-      "rules": {}
+      "rules": {},
+      "actionGroup": {}
     },
     "08ef360e-e1d7-4f9e-91e9-751c101367b4": {
       "id": "08ef360e-e1d7-4f9e-91e9-751c101367b4",
@@ -64,7 +67,8 @@
       "type": "Input",
       "parent": "2897b9f2-9bff-4a82-9b94-fb41a55831fd",
       "rootParentType": "Input",
-      "rules": {}
+      "rules": {},
+      "actionGroup": {}
     },
     "c73f8bf5-9c91-43b1-ab22-dfefce6d5b9c": {
       "id": "c73f8bf5-9c91-43b1-ab22-dfefce6d5b9c",
@@ -85,7 +89,8 @@
       "type": "SubmitButton",
       "parent": "d31b3f1c-f079-4dff-8821-443055a8250a",
       "rootParentType": "SubmitButton",
-      "rules": {}
+      "rules": {},
+      "actionGroup": {}
     },
     "fce73f4d-d4e0-496e-b803-9b977f509d68": {
       "id": "fce73f4d-d4e0-496e-b803-9b977f509d68",
@@ -107,7 +112,8 @@
       "type": "Stack",
       "parent": "86905b09-04c5-4c19-b65e-f69e8c5791bd",
       "rootParentType": "Stack",
-      "rules": {}
+      "rules": {},
+      "actionGroup": {}
     },
     "33361e12-7c87-4be1-94b1-042f3ca5a775": {
       "id": "33361e12-7c87-4be1-94b1-042f3ca5a775",
@@ -127,7 +133,8 @@
       "type": "Form",
       "parent": "fce73f4d-d4e0-496e-b803-9b977f509d68",
       "rootParentType": "Form",
-      "rules": {}
+      "rules": {},
+      "actionGroup": {}
     },
     "50fc3b18-9efe-4b78-b787-c6f474075ecc": {
       "id": "50fc3b18-9efe-4b78-b787-c6f474075ecc",
@@ -147,7 +154,8 @@
       "type": "SubmitButton",
       "parent": "33361e12-7c87-4be1-94b1-042f3ca5a775",
       "rootParentType": "SubmitButton",
-      "rules": {}
+      "rules": {},
+      "actionGroup": {}
     },
     "444f809a-3041-48d4-a88a-f3479b07cbea": {
       "id": "444f809a-3041-48d4-a88a-f3479b07cbea",
@@ -164,7 +172,8 @@
       "type": "forEach",
       "parent": "fce73f4d-d4e0-496e-b803-9b977f509d68",
       "rootParentType": "forEach",
-      "rules": {}
+      "rules": {},
+      "actionGroup": {}
     },
     "7093816e-6eb6-44cb-ad2d-d973044caf4c": {
       "id": "7093816e-6eb6-44cb-ad2d-d973044caf4c",
@@ -186,7 +195,8 @@
       "type": "Stack",
       "parent": "5168f06a-b7bd-429e-a225-b5436c00639d",
       "rootParentType": "Stack",
-      "rules": {}
+      "rules": {},
+      "actionGroup": {}
     },
     "2897b9f2-9bff-4a82-9b94-fb41a55831fd": {
       "id": "2897b9f2-9bff-4a82-9b94-fb41a55831fd",
@@ -204,7 +214,8 @@
       "type": "Container",
       "parent": "7093816e-6eb6-44cb-ad2d-d973044caf4c",
       "rootParentType": "Container",
-      "rules": {}
+      "rules": {},
+      "actionGroup": {}
     },
     "4e433557-0726-4d9f-9ae0-a86ac0df3f05": {
       "id": "4e433557-0726-4d9f-9ae0-a86ac0df3f05",
@@ -221,7 +232,8 @@
       "type": "Container",
       "parent": "7093816e-6eb6-44cb-ad2d-d973044caf4c",
       "rootParentType": "Container",
-      "rules": {}
+      "rules": {},
+      "actionGroup": {}
     },
     "b56faeff-1c01-45e1-94b2-7bf44f7854f3": {
       "id": "b56faeff-1c01-45e1-94b2-7bf44f7854f3",
@@ -237,7 +249,8 @@
       "type": "Container",
       "parent": "7093816e-6eb6-44cb-ad2d-d973044caf4c",
       "rootParentType": "Container",
-      "rules": {}
+      "rules": {},
+      "actionGroup": {}
     },
     "30de7b18-4032-4af2-af7b-c94bc82b0640": {
       "id": "30de7b18-4032-4af2-af7b-c94bc82b0640",
@@ -253,7 +266,8 @@
       "type": "Container",
       "parent": "7093816e-6eb6-44cb-ad2d-d973044caf4c",
       "rootParentType": "Container",
-      "rules": {}
+      "rules": {},
+      "actionGroup": {}
     },
     "804ec569-6977-4e0e-9b90-a1798a89f922": {
       "id": "804ec569-6977-4e0e-9b90-a1798a89f922",
@@ -268,7 +282,8 @@
       "type": "Text",
       "parent": "b5bb3156-06fd-4ead-b893-ce75352407b6",
       "rootParentType": "Text",
-      "rules": {}
+      "rules": {},
+      "actionGroup": {}
     },
     "b5bb3156-06fd-4ead-b893-ce75352407b6": {
       "id": "b5bb3156-06fd-4ead-b893-ce75352407b6",
@@ -285,7 +300,8 @@
       "type": "Container",
       "parent": "4baed4de-5336-4348-8e4d-f3f71a0baa77",
       "rootParentType": "Container",
-      "rules": {}
+      "rules": {},
+      "actionGroup": {}
     },
     "4baed4de-5336-4348-8e4d-f3f71a0baa77": {
       "id": "4baed4de-5336-4348-8e4d-f3f71a0baa77",
@@ -307,7 +323,8 @@
       "type": "Stack",
       "parent": "5bf9f957-de73-422b-9989-bab86bc176f7",
       "rootParentType": "Stack",
-      "rules": {}
+      "rules": {},
+      "actionGroup": {}
     },
     "4117f770-dc32-4426-9343-7b0e10756d3c": {
       "id": "4117f770-dc32-4426-9343-7b0e10756d3c",
@@ -325,7 +342,8 @@
       "type": "Container",
       "parent": "fce73f4d-d4e0-496e-b803-9b977f509d68",
       "rootParentType": "Container",
-      "rules": {}
+      "rules": {},
+      "actionGroup": {}
     },
     "5168f06a-b7bd-429e-a225-b5436c00639d": {
       "id": "5168f06a-b7bd-429e-a225-b5436c00639d",
@@ -343,7 +361,8 @@
       "type": "Form",
       "parent": "444f809a-3041-48d4-a88a-f3479b07cbea",
       "rootParentType": "Form",
-      "rules": {}
+      "rules": {},
+      "actionGroup": {}
     },
     "5bf9f957-de73-422b-9989-bab86bc176f7": {
       "id": "5bf9f957-de73-422b-9989-bab86bc176f7",
@@ -362,7 +381,8 @@
       "type": "Container",
       "parent": "4117f770-dc32-4426-9343-7b0e10756d3c",
       "rootParentType": "Container",
-      "rules": {}
+      "rules": {},
+      "actionGroup": {}
     },
     "a0cffba4-ee7c-4940-b44a-dfa9a0a10110": {
       "id": "a0cffba4-ee7c-4940-b44a-dfa9a0a10110",
@@ -377,7 +397,8 @@
       "type": "Text",
       "parent": "c7a1d7f1-31de-4c8a-9a92-a3439f1e8dbe",
       "rootParentType": "Text",
-      "rules": {}
+      "rules": {},
+      "actionGroup": {}
     },
     "c7a1d7f1-31de-4c8a-9a92-a3439f1e8dbe": {
       "id": "c7a1d7f1-31de-4c8a-9a92-a3439f1e8dbe",
@@ -394,7 +415,8 @@
       "type": "Container",
       "parent": "4baed4de-5336-4348-8e4d-f3f71a0baa77",
       "rootParentType": "Container",
-      "rules": {}
+      "rules": {},
+      "actionGroup": {}
     },
     "27b49683-7646-4b48-8d36-eacd762525f1": {
       "id": "27b49683-7646-4b48-8d36-eacd762525f1",
@@ -409,7 +431,8 @@
       "type": "Text",
       "parent": "0bf3da84-d0d9-4426-9089-f2f977efd7ce",
       "rootParentType": "Text",
-      "rules": {}
+      "rules": {},
+      "actionGroup": {}
     },
     "0bf3da84-d0d9-4426-9089-f2f977efd7ce": {
       "id": "0bf3da84-d0d9-4426-9089-f2f977efd7ce",
@@ -426,7 +449,8 @@
       "type": "Container",
       "parent": "4baed4de-5336-4348-8e4d-f3f71a0baa77",
       "rootParentType": "Container",
-      "rules": {}
+      "rules": {},
+      "actionGroup": {}
     },
     "4a9bd80f-451a-4b49-be14-2eecb72ef3b2": {
       "id": "4a9bd80f-451a-4b49-be14-2eecb72ef3b2",
@@ -441,7 +465,8 @@
       "type": "Text",
       "parent": "9dd11f99-7d95-4cf8-9ff4-1c7f39d3fd04",
       "rootParentType": "Text",
-      "rules": {}
+      "rules": {},
+      "actionGroup": {}
     },
     "9dd11f99-7d95-4cf8-9ff4-1c7f39d3fd04": {
       "id": "9dd11f99-7d95-4cf8-9ff4-1c7f39d3fd04",
@@ -458,7 +483,8 @@
       "type": "Container",
       "parent": "4baed4de-5336-4348-8e4d-f3f71a0baa77",
       "rootParentType": "Container",
-      "rules": {}
+      "rules": {},
+      "actionGroup": {}
     },
     "3046db43-6e55-4905-93d8-19aec67516f6": {
       "id": "3046db43-6e55-4905-93d8-19aec67516f6",
@@ -473,7 +499,8 @@
       "type": "Container",
       "parent": "4baed4de-5336-4348-8e4d-f3f71a0baa77",
       "rootParentType": "Container",
-      "rules": {}
+      "rules": {},
+      "actionGroup": {}
     },
     "d31b3f1c-f079-4dff-8821-443055a8250a": {
       "id": "d31b3f1c-f079-4dff-8821-443055a8250a",
@@ -491,7 +518,8 @@
       "type": "Container",
       "parent": "7093816e-6eb6-44cb-ad2d-d973044caf4c",
       "rootParentType": "Container",
-      "rules": {}
+      "rules": {},
+      "actionGroup": {}
     },
     "14b1f9d4-9f1c-483e-ba64-f564f4c2fce2": {
       "id": "14b1f9d4-9f1c-483e-ba64-f564f4c2fce2",
@@ -504,7 +532,8 @@
       "type": "VariableText",
       "parent": "2897b9f2-9bff-4a82-9b94-fb41a55831fd",
       "rootParentType": "VariableText",
-      "rules": {}
+      "rules": {},
+      "actionGroup": {}
     },
     "a90133bc-ece8-415d-9784-49d68ad6271d": {
       "id": "a90133bc-ece8-415d-9784-49d68ad6271d",
@@ -517,7 +546,8 @@
       "type": "VariableText",
       "parent": "4e433557-0726-4d9f-9ae0-a86ac0df3f05",
       "rootParentType": "VariableText",
-      "rules": {}
+      "rules": {},
+      "actionGroup": {}
     },
     "ffba28c6-985c-45ff-9201-2e66cc90712b": {
       "id": "ffba28c6-985c-45ff-9201-2e66cc90712b",
@@ -530,7 +560,8 @@
       "type": "VariableText",
       "parent": "b56faeff-1c01-45e1-94b2-7bf44f7854f3",
       "rootParentType": "VariableText",
-      "rules": {}
+      "rules": {},
+      "actionGroup": {}
     },
     "1baea185-7ed1-419f-ae94-bb9e22b1e88e": {
       "id": "1baea185-7ed1-419f-ae94-bb9e22b1e88e",
@@ -543,7 +574,8 @@
       "type": "VariableText",
       "parent": "30de7b18-4032-4af2-af7b-c94bc82b0640",
       "rootParentType": "VariableText",
-      "rules": {}
+      "rules": {},
+      "actionGroup": {}
     },
     "866cdb3f-b546-44de-8c96-7c079bc241dd": {
       "id": "866cdb3f-b546-44de-8c96-7c079bc241dd",
@@ -555,7 +587,8 @@
       "type": "Divider",
       "parent": "5168f06a-b7bd-429e-a225-b5436c00639d",
       "rootParentType": "Divider",
-      "rules": {}
+      "rules": {},
+      "actionGroup": {}
     },
     "258cb9fe-5c7b-40a6-b397-b95734a2cd29": {
       "id": "258cb9fe-5c7b-40a6-b397-b95734a2cd29",
@@ -567,7 +600,8 @@
       "type": "Divider",
       "parent": "5bf9f957-de73-422b-9989-bab86bc176f7",
       "rootParentType": "Divider",
-      "rules": {}
+      "rules": {},
+      "actionGroup": {}
     },
     "872e2780-0dba-4b09-94dc-73fc7b4f9cca": {
       "id": "872e2780-0dba-4b09-94dc-73fc7b4f9cca",
@@ -582,7 +616,8 @@
       "type": "Input",
       "parent": "4e433557-0726-4d9f-9ae0-a86ac0df3f05",
       "rootParentType": "Input",
-      "rules": {}
+      "rules": {},
+      "actionGroup": {}
     },
     "f99f2b7f-2f07-4cd6-a30f-4937856e776a": {
       "id": "f99f2b7f-2f07-4cd6-a30f-4937856e776a",
@@ -600,7 +635,8 @@
       "type": "Container",
       "parent": "86905b09-04c5-4c19-b65e-f69e8c5791bd",
       "rootParentType": "Container",
-      "rules": {}
+      "rules": {},
+      "actionGroup": {}
     },
     "4ebbbb0b-f1a4-4a84-b845-d876754c1619": {
       "id": "4ebbbb0b-f1a4-4a84-b845-d876754c1619",
@@ -615,7 +651,8 @@
       "type": "OnPageLoad",
       "parent": "f99f2b7f-2f07-4cd6-a30f-4937856e776a",
       "rootParentType": "OnPageLoad",
-      "rules": {}
+      "rules": {},
+      "actionGroup": {}
     },
     "b77dcf88-a0d2-4654-9cec-be0ac177a531": {
       "id": "b77dcf88-a0d2-4654-9cec-be0ac177a531",
@@ -630,7 +667,8 @@
       "type": "Text",
       "parent": "1391c982-9aa5-4959-a993-bcc969c4640b",
       "rootParentType": "Text",
-      "rules": {}
+      "rules": {},
+      "actionGroup": {}
     },
     "1391c982-9aa5-4959-a993-bcc969c4640b": {
       "id": "1391c982-9aa5-4959-a993-bcc969c4640b",
@@ -647,7 +685,8 @@
       "type": "Container",
       "parent": "4baed4de-5336-4348-8e4d-f3f71a0baa77",
       "rootParentType": "Container",
-      "rules": {}
+      "rules": {},
+      "actionGroup": {}
     },
     "520c6a6b-e9a0-450a-8775-986b9928ee87": {
       "id": "520c6a6b-e9a0-450a-8775-986b9928ee87",
@@ -660,7 +699,8 @@
       "type": "VariableText",
       "parent": "ceb17a80-a192-4ffb-9c2c-b8049bc91716",
       "rootParentType": "VariableText",
-      "rules": {}
+      "rules": {},
+      "actionGroup": {}
     },
     "ceb17a80-a192-4ffb-9c2c-b8049bc91716": {
       "id": "ceb17a80-a192-4ffb-9c2c-b8049bc91716",
@@ -676,7 +716,8 @@
       "type": "Container",
       "parent": "7093816e-6eb6-44cb-ad2d-d973044caf4c",
       "rootParentType": "Container",
-      "rules": {}
+      "rules": {},
+      "actionGroup": {}
     },
     "4634d24a-47e7-484f-96d1-6c940c397da0": {
       "id": "4634d24a-47e7-484f-96d1-6c940c397da0",
@@ -695,7 +736,8 @@
       "type": "Pagination",
       "parent": "e0833001-5fb8-4602-a6fe-6fe8b2b3193e",
       "rootParentType": "Pagination",
-      "rules": {}
+      "rules": {},
+      "actionGroup": {}
     },
     "e0833001-5fb8-4602-a6fe-6fe8b2b3193e": {
       "id": "e0833001-5fb8-4602-a6fe-6fe8b2b3193e",
@@ -711,7 +753,8 @@
       "type": "Container",
       "parent": "86905b09-04c5-4c19-b65e-f69e8c5791bd",
       "rootParentType": "Container",
-      "rules": {}
+      "rules": {},
+      "actionGroup": {}
     },
     "72b56a74-4366-4758-ad7c-6719825f925b": {
       "id": "72b56a74-4366-4758-ad7c-6719825f925b",
@@ -730,7 +773,8 @@
       "type": "Container",
       "parent": "86905b09-04c5-4c19-b65e-f69e8c5791bd",
       "rootParentType": "Container",
-      "rules": {}
+      "rules": {},
+      "actionGroup": {}
     },
     "764a52e1-f58f-4ed1-98fe-19ca76688fb0": {
       "id": "764a52e1-f58f-4ed1-98fe-19ca76688fb0",
@@ -744,7 +788,8 @@
       "type": "Loader",
       "parent": "72b56a74-4366-4758-ad7c-6719825f925b",
       "rootParentType": "Loader",
-      "rules": {}
+      "rules": {},
+      "actionGroup": {}
     }
   },
   "payment-success": {
@@ -754,7 +799,8 @@
       "type": "Box",
       "children": [],
       "props": {},
-      "rules": {}
+      "rules": {},
+      "actionGroup": {}
     }
   },
   "payment-failure": {
@@ -764,7 +810,8 @@
       "type": "Box",
       "children": [],
       "props": {},
-      "rules": {}
+      "rules": {},
+      "actionGroup": {}
     }
   }
 }
