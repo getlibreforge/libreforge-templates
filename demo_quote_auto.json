@@ -196,20 +196,32 @@
         "variant": "solid",
         "size": "md",
         "colorScheme": "blue",
-        "_x_onclick_1": "SubmitForm",
-        "_x_onclick_2": "ExtractResponseData",
-        "_x_onclick_3": "RouteToNextWizardStep",
         "_x_method": "POST",
-        "_x_url": "https://api.libreforge.com:9999/api/quote-auto/driver",
-        "_x_onclick_2_attr": "policyNumber",
-        "_x_onclick_3_url": "/quote-auto-vehicle"
+        "_x_url": "https://api.libreforge.com:9999/api/quote-auto/driver"
       },
       "children": [],
       "type": "SubmitButton",
       "parent": "71c07269-9522-45ca-8177-3ef812c06ee7",
       "rootParentType": "SubmitButton",
       "rules": {},
-      "actionGroup": {}
+      "actionGroup": {
+        "0": {
+          "action": "SubmitForm",
+          "params": {}
+        },
+        "1": {
+          "action": "ExtractResponseData",
+          "params": {
+            "attr": "policyNumber"
+          }
+        },
+        "2": {
+          "action": "RouteToNextWizardStep",
+          "params": {
+            "url": "/quote-auto-vehicle"
+          }
+        }
+      }
     },
     "df0963e3-70f7-4991-bf58-b12daa5e955a": {
       "id": "df0963e3-70f7-4991-bf58-b12daa5e955a",
@@ -719,16 +731,21 @@
         "variant": "solid",
         "size": "md",
         "colorScheme": "blue",
-        "_x_onclick_1": "RouteToPrevWizardStep",
-        "w": "50%",
-        "_x_onclick_1_url": "/home"
+        "w": "50%"
       },
       "children": [],
       "type": "Button",
       "parent": "9fc3073d-1011-4210-8188-65ebe227d1e2",
       "rootParentType": "Button",
       "rules": {},
-      "actionGroup": {}
+      "actionGroup": {
+        "0": {
+          "action": "RouteToPrevWizardStep",
+          "params": {
+            "url": "/home"
+          }
+        }
+      }
     },
     "01cd8c25-d493-48ae-9a0d-b0fb264ba1ed": {
       "id": "01cd8c25-d493-48ae-9a0d-b0fb264ba1ed",
@@ -911,19 +928,27 @@
         "variant": "solid",
         "size": "md",
         "colorScheme": "blue",
-        "_x_onclick_1": "SubmitForm",
         "w": "50%",
         "_x_url": "https://api.libreforge.com:9999/api/quote-auto/vehicle",
-        "_x_method": "POST",
-        "_x_onclick_2": "RouteToNextWizardStep",
-        "_x_onclick_2_url": "/quote-auto-purpose"
+        "_x_method": "POST"
       },
       "children": [],
       "type": "SubmitButton",
       "parent": "9fc3073d-1011-4210-8188-65ebe227d1e2",
       "rootParentType": "SubmitButton",
       "rules": {},
-      "actionGroup": {}
+      "actionGroup": {
+        "0": {
+          "action": "SubmitForm",
+          "params": {}
+        },
+        "1": {
+          "action": "RouteToNextWizardStep",
+          "params": {
+            "url": "/quote-auto-purpose"
+          }
+        }
+      }
     },
     "78592bb8-3fc8-49e1-8979-12dad234f0a0": {
       "id": "78592bb8-3fc8-49e1-8979-12dad234f0a0",
@@ -1317,16 +1342,21 @@
         "variant": "solid",
         "size": "md",
         "colorScheme": "blue",
-        "_x_onclick_1": "RouteToPrevWizardStep",
-        "w": "50%",
-        "_x_onclick_1_url": "/quote-auto-vehicle"
+        "w": "50%"
       },
       "children": [],
       "type": "Button",
       "parent": "65d7d58b-356c-42fe-a6c5-31882ef706cb",
       "rootParentType": "Button",
       "rules": {},
-      "actionGroup": {}
+      "actionGroup": {
+        "0": {
+          "action": "RouteToPrevWizardStep",
+          "params": {
+            "url": "/quote-auto-vehicle"
+          }
+        }
+      }
     },
     "29e3426e-7f77-454c-8b41-7c25d5892b7f": {
       "id": "29e3426e-7f77-454c-8b41-7c25d5892b7f",
@@ -1539,19 +1569,27 @@
         "variant": "solid",
         "size": "md",
         "colorScheme": "blue",
-        "_x_onclick_1": "SubmitForm",
         "w": "50%",
         "_x_url": "https://api.libreforge.com:9999/api/quote-auto/purpose",
-        "_x_method": "POST",
-        "_x_onclick_2": "RouteToNextWizardStep",
-        "_x_onclick_2_url": "/quote-auto-complete"
+        "_x_method": "POST"
       },
       "children": [],
       "type": "SubmitButton",
       "parent": "65d7d58b-356c-42fe-a6c5-31882ef706cb",
       "rootParentType": "SubmitButton",
       "rules": {},
-      "actionGroup": {}
+      "actionGroup": {
+        "0": {
+          "action": "SubmitForm",
+          "params": {}
+        },
+        "1": {
+          "action": "RouteToNextWizardStep",
+          "params": {
+            "url": "/quote-auto-complete"
+          }
+        }
+      }
     },
     "c216223f-6519-49c8-9a64-979500896538": {
       "id": "c216223f-6519-49c8-9a64-979500896538",

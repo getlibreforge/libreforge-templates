@@ -80,17 +80,25 @@
         "_x_url": "https://api.libreforge.com:9999/api/integration/payment/providers/stripe/sessions",
         "_x_method": "POST",
         "leftIcon": "ExternalLinkIcon",
-        "_x_onclick_1": "SubmitForm",
-        "_x_onclick_2": "RouteToStripeCheckout",
-        "colorScheme": "messenger",
-        "_x_onclick_2_sessionId": "sessionId"
+        "colorScheme": "messenger"
       },
       "children": [],
       "type": "SubmitButton",
       "parent": "d31b3f1c-f079-4dff-8821-443055a8250a",
       "rootParentType": "SubmitButton",
       "rules": {},
-      "actionGroup": {}
+      "actionGroup": {
+        "0": {
+          "action": "SubmitForm",
+          "params": {}
+        },
+        "1": {
+          "action": "RouteToStripeCheckout",
+          "params": {
+            "sessionId": "sessionId"
+          }
+        }
+      }
     },
     "fce73f4d-d4e0-496e-b803-9b977f509d68": {
       "id": "fce73f4d-d4e0-496e-b803-9b977f509d68",
@@ -145,17 +153,25 @@
         "size": "md",
         "_x_url": "https://api.libreforge.com:9999/api/billing/invoice",
         "_x_method": "POST",
-        "_x_onclick_1": "SubmitForm",
-        "_x_onclick_2": "ExtractResponseData",
-        "leftIcon": "SearchIcon",
-        "_x_onclick_2_attr": "invoices"
+        "leftIcon": "SearchIcon"
       },
       "children": [],
       "type": "SubmitButton",
       "parent": "33361e12-7c87-4be1-94b1-042f3ca5a775",
       "rootParentType": "SubmitButton",
       "rules": {},
-      "actionGroup": {}
+      "actionGroup": {
+        "0": {
+          "action": "SubmitForm",
+          "params": {}
+        },
+        "1": {
+          "action": "ExtractResponseData",
+          "params": {
+            "attr": "invoices"
+          }
+        }
+      }
     },
     "444f809a-3041-48d4-a88a-f3479b07cbea": {
       "id": "444f809a-3041-48d4-a88a-f3479b07cbea",
@@ -643,16 +659,21 @@
       "props": {
         "_x_name": "4ebbbb0b-f1a4-4a84-b845-d876754c1619",
         "w": "28px",
-        "color": "messenger.900",
-        "_x_action": "ClickByRef",
-        "_x_action_ref": "50fc3b18-9efe-4b78-b787-c6f474075ecc"
+        "color": "messenger.900"
       },
       "children": [],
       "type": "OnPageLoad",
       "parent": "f99f2b7f-2f07-4cd6-a30f-4937856e776a",
       "rootParentType": "OnPageLoad",
       "rules": {},
-      "actionGroup": {}
+      "actionGroup": {
+        "0": {
+          "action": "ClickByRef",
+          "params": {
+            "ref": "50fc3b18-9efe-4b78-b787-c6f474075ecc"
+          }
+        }
+      }
     },
     "b77dcf88-a0d2-4654-9cec-be0ac177a531": {
       "id": "b77dcf88-a0d2-4654-9cec-be0ac177a531",

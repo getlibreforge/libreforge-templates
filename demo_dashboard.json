@@ -274,16 +274,21 @@
         "colorScheme": "blue",
         "w": "125px",
         "h": "48px",
-        " borderRadius": "12px",
-        "_x_onclick_1": "RouteToPage",
-        "_x_onclick_1_url": "/login"
+        " borderRadius": "12px"
       },
       "children": [],
       "type": "Button",
       "parent": "a3587cfc-448c-4fa8-836b-b12c2cba8c61",
       "rootParentType": "Button",
       "rules": {},
-      "actionGroup": {}
+      "actionGroup": {
+        "0": {
+          "action": "RouteToPage",
+          "params": {
+            "url": "/login"
+          }
+        }
+      }
     },
     "6a7fab9a-1830-41ad-827b-ab868cb40c66": {
       "id": "6a7fab9a-1830-41ad-827b-ab868cb40c66",
@@ -514,16 +519,21 @@
       "props": {
         "_x_name": "81e082d7-2dea-4dd8-8a7b-b8144819b1c0",
         "children": "Bundle",
-        "color": "#110229",
-        "_x_onclick_1": "RouteToPage",
-        "_x_onclick_1_url": "/restricted?productCd=bundle"
+        "color": "#110229"
       },
       "children": [],
       "type": "Link",
       "parent": "018a9d68-14f8-407d-8ef9-9857e5588fd9",
       "rootParentType": "Link",
       "rules": {},
-      "actionGroup": {}
+      "actionGroup": {
+        "0": {
+          "action": "RouteToPage",
+          "params": {
+            "url": "/restricted?productCd=bundle"
+          }
+        }
+      }
     },
     "5867fcd2-1b6a-418d-bd13-0dfde89f5f73": {
       "id": "5867fcd2-1b6a-418d-bd13-0dfde89f5f73",
@@ -560,9 +570,7 @@
       "props": {
         "_x_name": "0af85012-93a8-49e9-988f-f10854f584ce",
         "children": "Auto",
-        "color": "#110229",
-        "_x_onclick_1": "RouteToPage",
-        "_x_onclick_1_url": "/restricted?productCd=auto"
+        "color": "#110229"
       },
       "children": [],
       "type": "Link",
@@ -1057,16 +1065,21 @@
         "_x_name": "1f967bcd-69af-494d-aacf-145ca39c17df",
         "children": "Need help logging in?",
         "color": "blue.500",
-        "href": "#",
-        "_x_onclick_1": "RouteToPage",
-        "_x_onclick_1_url": "/restricted"
+        "href": "#"
       },
       "children": [],
       "type": "Link",
       "parent": "e2506094-8f3c-46bd-8328-206162e2bb94",
       "rootParentType": "Link",
       "rules": {},
-      "actionGroup": {}
+      "actionGroup": {
+        "0": {
+          "action": "RouteToPage",
+          "params": {
+            "url": "/restricted"
+          }
+        }
+      }
     },
     "129aba91-24d1-4232-9c39-c5ba62135d5c": {
       "id": "129aba91-24d1-4232-9c39-c5ba62135d5c",
@@ -1166,16 +1179,21 @@
       "props": {
         "_x_name": "cdffeabc-e643-4aec-a0bf-7c392f80bb95",
         "children": "Sign up",
-        "color": "messenger.500",
-        "_x_onclick_1": "RouteToPage",
-        "_x_onclick_1_url": "/signup"
+        "color": "messenger.500"
       },
       "children": [],
       "type": "Link",
       "parent": "d89df736-a138-4076-a41f-87525f8ce4b5",
       "rootParentType": "Link",
       "rules": {},
-      "actionGroup": {}
+      "actionGroup": {
+        "0": {
+          "action": "RouteToPage",
+          "params": {
+            "url": "/signup"
+          }
+        }
+      }
     },
     "b0612980-e672-4bc7-aba0-2f806598f598": {
       "id": "b0612980-e672-4bc7-aba0-2f806598f598",
@@ -1187,19 +1205,31 @@
         "_x_url": "https://api.libreforge.com:9999/api/auth/login",
         "_x_method": "POST",
         "colorScheme": "blue",
-        "_x_onclick_1": "SubmitForm",
-        "_x_onclick_2": "ExtractResponseDataToShared",
-        "_x_onclick_3": "RouteToPageRedirectAware",
-        "w": "50%",
-        "_x_onclick_2_attr": "token",
-        "_x_onclick_3_url": "/restricted"
+        "w": "50%"
       },
       "children": [],
       "type": "SubmitButton",
       "parent": "80822add-72c5-47eb-bbfd-a81635e4e285",
       "rootParentType": "SubmitButton",
       "rules": {},
-      "actionGroup": {}
+      "actionGroup": {
+        "0": {
+          "action": "SubmitForm",
+          "params": {}
+        },
+        "1": {
+          "action": "ExtractResponseDataToShared",
+          "params": {
+            "attr": "token"
+          }
+        },
+        "2": {
+          "action": "RouteToPageRedirectAware",
+          "params": {
+            "url": "/restricted"
+          }
+        }
+      }
     },
     "950033c0-37ea-4708-8216-ae9b63be45d3": {
       "id": "950033c0-37ea-4708-8216-ae9b63be45d3",
@@ -1345,15 +1375,19 @@
         "size": "md",
         "backgroundColor": "red.500",
         "color": "white",
-        "w": "50%",
-        "_x_onclick_1": "OAuth2GoogleRedirect"
+        "w": "50%"
       },
       "children": [],
       "type": "Button",
       "parent": "80822add-72c5-47eb-bbfd-a81635e4e285",
       "rootParentType": "Button",
       "rules": {},
-      "actionGroup": {}
+      "actionGroup": {
+        "0": {
+          "action": "OAuth2GoogleRedirect",
+          "params": {}
+        }
+      }
     }
   },
   "signup": {
@@ -1605,16 +1639,21 @@
         "children": "Continue",
         "variant": "solid",
         "size": "md",
-        "colorScheme": "blue",
-        "_x_onclick_1": "RouteToPage",
-        "_x_onclick_1_url": "/home"
+        "colorScheme": "blue"
       },
       "children": [],
       "type": "Button",
       "parent": "71c07269-9522-45ca-8177-3ef812c06ee7",
       "rootParentType": "Button",
       "rules": {},
-      "actionGroup": {}
+      "actionGroup": {
+        "0": {
+          "action": "RouteToPage",
+          "params": {
+            "url": "/home"
+          }
+        }
+      }
     },
     "59f2a521-cae3-4676-b2c3-dc53166799bb": {
       "id": "59f2a521-cae3-4676-b2c3-dc53166799bb",
@@ -1623,16 +1662,21 @@
         "children": "Cancel",
         "variant": "outline",
         "size": "md",
-        "colorScheme": "blue",
-        "_x_onclick_1": "RouteToPage",
-        "_x_onclick_1_url": "/login"
+        "colorScheme": "blue"
       },
       "children": [],
       "type": "Button",
       "parent": "71c07269-9522-45ca-8177-3ef812c06ee7",
       "rootParentType": "Button",
       "rules": {},
-      "actionGroup": {}
+      "actionGroup": {
+        "0": {
+          "action": "RouteToPage",
+          "params": {
+            "url": "/login"
+          }
+        }
+      }
     },
     "df0963e3-70f7-4991-bf58-b12daa5e955a": {
       "id": "df0963e3-70f7-4991-bf58-b12daa5e955a",
