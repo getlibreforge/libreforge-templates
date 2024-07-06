@@ -659,12 +659,13 @@
       "props": {
         "_x_name": "4ebbbb0b-f1a4-4a84-b845-d876754c1619",
         "w": "28px",
-        "color": "messenger.900"
+        "color": "messenger.900",
+        "isJustOnce": true
       },
       "children": [],
-      "type": "OnPageLoad",
+      "type": "Automatic Action",
       "parent": "f99f2b7f-2f07-4cd6-a30f-4937856e776a",
-      "rootParentType": "OnPageLoad",
+      "rootParentType": "Automatic Action",
       "rules": {},
       "actionGroup": {
         "0": {
