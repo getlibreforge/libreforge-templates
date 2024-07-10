@@ -216,6 +216,12 @@
           }
         },
         "2": {
+          "action": "StoreDataAction",
+          "params": {
+            "stateType": "page"
+          }
+        },
+        "3": {
           "action": "RouteToNextWizardStep",
           "params": {
             "url": "/quote-auto-vehicle"

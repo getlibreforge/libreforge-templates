@@ -1,0 +1,292 @@
+{
+  "home": {
+    "root": {
+      "id": "root",
+      "parent": "root",
+      "type": "Box",
+      "children": [
+        "0adbf8e8-7c79-4333-9f62-250a348b830c",
+        "abff3889-35af-4d84-9e84-da07a41c3bbb",
+        "8f0f61eb-4219-480e-86ba-f9c75c14b4dc",
+        "e247321d-4b5e-4d4b-984c-7f7b03c6b383"
+      ],
+      "props": {},
+      "rules": {},
+      "actionGroup": {}
+    },
+    "0adbf8e8-7c79-4333-9f62-250a348b830c": {
+      "id": "0adbf8e8-7c79-4333-9f62-250a348b830c",
+      "props": {
+        "_x_name": "0adbf8e8-7c79-4333-9f62-250a348b830c",
+        "icon": "ChevronDownIcon",
+        "variant": "outline",
+        "size": "md",
+        "_x_dict": "us_timezone"
+      },
+      "children": [],
+      "type": "Select",
+      "parent": "root",
+      "rootParentType": "Select",
+      "rules": {},
+      "actionGroup": {}
+    },
+    "55f31284-5af2-46de-b5fd-5c29f74cb134": {
+      "id": "55f31284-5af2-46de-b5fd-5c29f74cb134",
+      "props": {
+        "_x_name": "55f31284-5af2-46de-b5fd-5c29f74cb134",
+        "children": "Get Shared",
+        "variant": "solid",
+        "size": "md",
+        "colorScheme": "blue"
+      },
+      "children": [],
+      "type": "Button",
+      "parent": "8f0f61eb-4219-480e-86ba-f9c75c14b4dc",
+      "rootParentType": "Button",
+      "rules": {},
+      "actionGroup": {
+        "0": {
+          "action": "DebugState",
+          "params": {
+            "stateType": "shared"
+          }
+        }
+      }
+    },
+    "648a5944-c3f8-4668-8eae-189334071b4b": {
+      "id": "648a5944-c3f8-4668-8eae-189334071b4b",
+      "props": {
+        "_x_name": "648a5944-c3f8-4668-8eae-189334071b4b",
+        "children": "Get Page",
+        "variant": "solid",
+        "size": "md"
+      },
+      "children": [],
+      "type": "Button",
+      "parent": "8f0f61eb-4219-480e-86ba-f9c75c14b4dc",
+      "rootParentType": "Button",
+      "rules": {},
+      "actionGroup": {
+        "0": {
+          "action": "DebugState",
+          "params": {
+            "stateType": "page"
+          }
+        }
+      }
+    },
+    "abff3889-35af-4d84-9e84-da07a41c3bbb": {
+      "id": "abff3889-35af-4d84-9e84-da07a41c3bbb",
+      "props": {
+        "_x_name": "abff3889-35af-4d84-9e84-da07a41c3bbb",
+        "w": "28px",
+        "color": "messenger.900",
+        "isJustOnce": true
+      },
+      "children": [],
+      "type": "Automatic Action",
+      "parent": "root",
+      "rootParentType": "Automatic Action",
+      "rules": {},
+      "actionGroup": {
+        "0": {
+          "action": "ExecuteScript",
+          "params": {
+            "script": "await ctx.setSharedValue('dictionaries', { \"us_timezone\": { \"code\": \"us_timezone\", \"name\": \"US Timezone\", \"filtersCount\": 0, \"items\": [ { \"code\": \"US/Alaska\", \"value\": \"US/Alaska\", \"filter1\": null }, { \"code\": \"US/Aleutian\", \"value\": \"US/Aleutian\", \"filter1\": null }, { \"code\": \"US/Arizona\", \"value\": \"US/Arizona\", \"filter1\": null }, { \"code\": \"US/Central\", \"value\": \"US/Central\", \"filter1\": null }, { \"code\": \"US/East-Indiana\", \"value\": \"US/East-Indiana\", \"filter1\": null }, { \"code\": \"US/Eastern\", \"value\": \"US/Eastern\", \"filter1\": null }, { \"code\": \"US/Hawaii\", \"value\": \"US/Hawaii\", \"filter1\": null }, { \"code\": \"US/Indiana-Starke\", \"value\": \"US/Indiana-Starke\", \"filter1\": null }, { \"code\": \"US/Michigan\", \"value\": \"US/Michigan\", \"filter1\": null }, { \"code\": \"US/Mountain\", \"value\": \"US/Mountain\", \"filter1\": null }, { \"code\": \"US/Pacific\", \"value\": \"US/Pacific\", \"filter1\": null }, { \"code\": \"US/Pacific-New\", \"value\": \"US/Pacific-New\", \"filter1\": null }, { \"code\": \"US/Samoa\", \"value\": \"US/Samoa\", \"filter1\": null } ]}})"
+          }
+        }
+      }
+    },
+    "8f0f61eb-4219-480e-86ba-f9c75c14b4dc": {
+      "id": "8f0f61eb-4219-480e-86ba-f9c75c14b4dc",
+      "props": {
+        "_x_name": "8f0f61eb-4219-480e-86ba-f9c75c14b4dc",
+        "pt": 5,
+        "pb": 5,
+        "backgroundColor": "whiteAlpha.500",
+        "ml": "0",
+        "minWidth": "100%"
+      },
+      "children": [
+        "55f31284-5af2-46de-b5fd-5c29f74cb134",
+        "648a5944-c3f8-4668-8eae-189334071b4b",
+        "0bb223e3-7d06-4210-91af-f108568da810",
+        "5c5d4de1-83d5-411d-a2e6-3b604c64ab7a"
+      ],
+      "type": "Container",
+      "parent": "root",
+      "rootParentType": "Container",
+      "rules": {},
+      "actionGroup": {}
+    },
+    "0bb223e3-7d06-4210-91af-f108568da810": {
+      "id": "0bb223e3-7d06-4210-91af-f108568da810",
+      "props": {
+        "_x_name": "0bb223e3-7d06-4210-91af-f108568da810",
+        "children": "Change Color",
+        "variant": "solid",
+        "size": "md"
+      },
+      "children": [],
+      "type": "Button",
+      "parent": "8f0f61eb-4219-480e-86ba-f9c75c14b4dc",
+      "rootParentType": "Button",
+      "rules": {},
+      "actionGroup": {
+        "0": {
+          "action": "ExecuteScript",
+          "params": {
+            "script": "await ctx.setPropValue(\"55f31284-5af2-46de-b5fd-5c29f74cb134\", \"colorScheme\", \"red\")"
+          }
+        }
+      }
+    },
+    "e247321d-4b5e-4d4b-984c-7f7b03c6b383": {
+      "id": "e247321d-4b5e-4d4b-984c-7f7b03c6b383",
+      "props": {
+        "_x_name": "e247321d-4b5e-4d4b-984c-7f7b03c6b383",
+        "pt": "5",
+        "pb": "5",
+        "backgroundColor": "blackAlpha.500",
+        "w": "100%",
+        "width": "",
+        "h": "100vh",
+        "backgroundImage": "https://getlibreforge.github.io/demo_files/background_home.svg",
+        "ml": "0",
+        "mr": "",
+        "pl": "",
+        "pr": "",
+        "minWidth": "100%",
+        "backgroundRepeat": "no-repeat",
+        "backgroundSize": "cover"
+      },
+      "children": [
+        "bf3d28b0-4b0f-46c5-ad06-9fd2b8b79e58",
+        "caac944c-7880-4da3-8e23-11b6971ee6c7"
+      ],
+      "type": "Container",
+      "parent": "root",
+      "rootParentType": "Container",
+      "rules": {},
+      "actionGroup": {}
+    },
+    "bf3d28b0-4b0f-46c5-ad06-9fd2b8b79e58": {
+      "id": "bf3d28b0-4b0f-46c5-ad06-9fd2b8b79e58",
+      "props": {
+        "_x_name": "bf3d28b0-4b0f-46c5-ad06-9fd2b8b79e58",
+        "children": "Set Variables",
+        "variant": "solid",
+        "size": "md",
+        "colorScheme": "yellow"
+      },
+      "children": [],
+      "type": "Button",
+      "parent": "e247321d-4b5e-4d4b-984c-7f7b03c6b383",
+      "rootParentType": "Button",
+      "rules": {},
+      "actionGroup": {
+        "0": {
+          "action": "ExecuteScript",
+          "params": {
+            "script": "const startOfDay = new Date(); startOfDay.setHours(0); startOfDay.setMinutes(0); startOfDay.setSeconds(0); return { \"startOfDay\": startOfDay.toISOString() }"
+          }
+        },
+        "1": {
+          "action": "StoreDataAction",
+          "params": {
+            "stateType": "page"
+          }
+        },
+        "2": {
+          "action": "ExecuteScript",
+          "params": {
+            "script": "const endOfDay = new Date(); endOfDay.setHours(23); endOfDay.setMinutes(59); endOfDay.setSeconds(59); return { \"endOfDay\": endOfDay.toISOString() }"
+          }
+        },
+        "3": {
+          "action": "StoreDataAction",
+          "params": {
+            "stateType": "page"
+          }
+        },
+        "4": {
+          "action": "ExecuteScript",
+          "params": {
+            "script": "await ctx.setValue(\"apiKey\", \"AIzaSyCRGmM6NfmJ1UGdtEsGe5a3cUJluRsO3og\");"
+          }
+        },
+        "5": {
+          "action": "ExecuteScript",
+          "params": {
+            "script": "await ctx.setValue(\"calendarId\", \"474334915f5d35299cb087b1a762c5baf04fd736e0d3e912d2b479f1fa23299f@group.calendar.google.com\");"
+          }
+        }
+      }
+    },
+    "5c5d4de1-83d5-411d-a2e6-3b604c64ab7a": {
+      "id": "5c5d4de1-83d5-411d-a2e6-3b604c64ab7a",
+      "props": {
+        "_x_name": "5c5d4de1-83d5-411d-a2e6-3b604c64ab7a",
+        "children": "Fetch Events",
+        "variant": "solid",
+        "size": "md"
+      },
+      "children": [],
+      "type": "Button",
+      "parent": "8f0f61eb-4219-480e-86ba-f9c75c14b4dc",
+      "rootParentType": "Button",
+      "rules": {},
+      "actionGroup": {
+        "0": {
+          "action": "Fetch",
+          "params": {
+            "url": "https://www.googleapis.com/calendar/v3/calendars/${calendarId}/events?key=${apiKey}&timeMin=${startOfDay}&timeMax=${endOfDay}"
+          }
+        },
+        "1": {
+          "action": "ExecuteScript",
+          "params": {
+            "script": "const items = ctx.getInput().items; const result = [];  for (let i=0; i<items.length; i++) {   const item = items[i]; result.push({ id: item.id, start: item.start.dateTime, end: item.end.dateTime }) } if (result.length > 1) {   await ctx.setPropValue(\"e247321d-4b5e-4d4b-984c-7f7b03c6b383\", \"backgroundImage\", \"https://getlibreforge.github.io/demo_files/login.svg\"); } else {   await ctx.setPropValue(\"e247321d-4b5e-4d4b-984c-7f7b03c6b383\", \"backgroundImage\", \"https://getlibreforge.github.io/demo_files/background_home.svg\"); } return { \"events\": result }"
+          }
+        },
+        "2": {
+          "action": "StoreDataAction",
+          "params": {
+            "stateType": "page"
+          }
+        }
+      }
+    },
+    "caac944c-7880-4da3-8e23-11b6971ee6c7": {
+      "id": "caac944c-7880-4da3-8e23-11b6971ee6c7",
+      "props": {
+        "_x_name": "caac944c-7880-4da3-8e23-11b6971ee6c7",
+        "pt": 5,
+        "pb": 5,
+        "backgroundColor": "blackAlpha.500",
+        "collectionRef": "events"
+      },
+      "children": [
+        "f7341e60-91da-416a-a2ce-563a2062bd3f"
+      ],
+      "type": "forEach",
+      "parent": "e247321d-4b5e-4d4b-984c-7f7b03c6b383",
+      "rootParentType": "forEach",
+      "rules": {},
+      "actionGroup": {}
+    },
+    "f7341e60-91da-416a-a2ce-563a2062bd3f": {
+      "id": "f7341e60-91da-416a-a2ce-563a2062bd3f",
+      "props": {
+        "_x_name": "f7341e60-91da-416a-a2ce-563a2062bd3f",
+        "children": "EventId - ${id}, Start - ${start}"
+      },
+      "children": [],
+      "type": "VariableText",
+      "parent": "caac944c-7880-4da3-8e23-11b6971ee6c7",
+      "rootParentType": "VariableText",
+      "rules": {},
+      "actionGroup": {}
+    }
+  }
+}

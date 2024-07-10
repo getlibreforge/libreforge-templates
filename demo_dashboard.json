@@ -1218,12 +1218,18 @@
           "params": {}
         },
         "1": {
-          "action": "ExtractResponseDataToShared",
+          "action": "ExtractResponseData",
           "params": {
             "attr": "token"
           }
         },
         "2": {
+          "action": "StoreDataAction",
+          "params": {
+            "stateType": "shared"
+          }
+        },
+        "3": {
           "action": "RouteToPageRedirectAware",
           "params": {
             "url": "/restricted"

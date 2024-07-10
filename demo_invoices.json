@@ -170,6 +170,12 @@
           "params": {
             "attr": "invoices"
           }
+        },
+        "2": {
+          "action": "StoreDataAction",
+          "params": {
+            "stateType": "page"
+          }
         }
       }
     },
